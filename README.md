@@ -20,6 +20,7 @@ This paper discusses in-detail the models, algorithms and results of our experim
 This is a sample run of the forest fire propagation simulation (sequence begins in the upper left corner going across, then down). The figure in the upper left corner panel is the initial state of the system where none of the forests are damaged (all non-burnt forests are green and all those fire zones whose states will never change are black). In the figure beside it shows a randomly selected node in the forest (colored yellow) where it serves as the source of the fire. In the sequences that follow, we see that fire propagates accordingly to our algorithms (where orange nodes represent forests that are burning and brown nodes represent forests that are burnt out). In the final few panels of the simulation, we have seen that the number of burning forests has remained the same and therefore serves as the stopping criterion of the fire propagating algorithm. <br>
 
 Click here to watch the mp4 video file of the simulation:
+
 [https://github.com/adityaehhhh/Forest-Fire-Prediction-Using-ML/blob/main/demo/presentation_simulation.mp4]
 
 ## Results
